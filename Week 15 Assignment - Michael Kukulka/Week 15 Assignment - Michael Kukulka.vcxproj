@@ -131,9 +131,6 @@
   <ItemGroup>
     <ClCompile Include="Week 15 Assignment - Michael Kukulka - Exceptions.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="commonutils.hpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
