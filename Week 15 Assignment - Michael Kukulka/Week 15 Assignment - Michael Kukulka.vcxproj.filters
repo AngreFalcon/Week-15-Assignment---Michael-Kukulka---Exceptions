@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Week 15 Assignment - Michael Kukulka.cpp">
+    <ClCompile Include="Week 15 Assignment - Michael Kukulka - Exceptions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
